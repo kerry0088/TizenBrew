@@ -13,6 +13,7 @@ const languages = {
     "nl_NL": "Dutch (Nederlands)",
     "vi_VN": "Vietnamese (Tiếng Việt)",
     "pl_PL": "Polish (Polski)"
+    "zh_TW": "Chinese Traditional (Taiwan)"
 };
 
 function loadTranslation(lang) {
